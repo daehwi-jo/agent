@@ -1,0 +1,13 @@
+##smartagent 4.0 release note##
+
+4.0.0 - smartagent 3.0 code refactoring
+4.0.0.1 - smartagent pkg test
+4.0.0.2 - notify delete cache  추가, plugin id(string type)
+4.0.0.3 - get my ip http header connection close 추가
+4.0.0.4 - mongo db time 추가(utc, kst)
+4.0.0.5 - get provider 추가
+4.0.0.6 - get public ip listen 추가 edge 장비 내 사용
+4.0.0.7 - tcp 기반의 통계 listen 추가(socket linger option 적용)
+4.0.0.8 - tcp 기반으로 notify 변경
+4.0.1 - 운영 pkg
+4.0.2 - cpu get script 수정
